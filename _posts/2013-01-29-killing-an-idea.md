@@ -10,7 +10,7 @@ them. I struggle with the latter, and it's downright embarrassing how much energ
 my daydreams have stolen from my daily work. The struggle to maintain focus is a
 constant one, requiring both vigilance and willpower.
 
-I've learned the hard way that **saying yes** to every new idea pops into my mind
+I've learned the hard way that **saying yes** to every new idea that pops into my mind
 ends up leaving me flat like a pancake. It's a surefire way to end up with tons
 of half-starts and a few almost-done projects that never quite end up getting
 shipped.
