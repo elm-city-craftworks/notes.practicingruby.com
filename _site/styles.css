@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #F9F6F4;
+}
+
+h1 { 
+  font-size: 1.8em;
+}
+
+p { 
+  font-size: 1.5em;
+  line-height: 1.3em;
+  text-align: justify;
+}
+
+div#content {
+  margin: 50px auto;
+  width: 750px;
+  font-family: sans-serif;
+}
