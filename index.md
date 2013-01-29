@@ -8,8 +8,8 @@ This isn't really a website, and it's not really a blog. It's more-or-less a
 place that allows me to share ad-hoc notes via the interwebs.
 
 The notes stored here will usually be about [Practicing
-Ruby](http://practicingruby.com), but they may be about other 
-stuff on occasion too.
+Ruby](http://practicingruby.com), but they may also be about other 
+stuff on occasion.
 
 If you want to track when updates are made to this website, check out its
 [repository 
