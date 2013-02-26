@@ -75,7 +75,7 @@ the operating costs, I moved some money from my savings into my
 business account as a cushion to cover the small losses that I
 anticipated would start to accumulate. I decided that when that
 money was gone, I'd either need to make a specific, conscious choice to
-invest more or make a big change.
+invest more or make a big change in the way I was doing things.
 
 All of this is just mental gymnastics. I'm a one person business if 
 you don't count my minor responsibilities to others, so there is
