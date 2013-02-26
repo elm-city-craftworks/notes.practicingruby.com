@@ -74,8 +74,8 @@ to start with: $30/hr. Because I couldn't even afford that based on
 the operating costs, I moved some money from my savings into my
 business account as a cushion to cover the small losses that I
 anticipated would start to accumulate. I decided that when that
-money was gone, I'd need to make a specific, conscious choice to
-invest more or to make a big change.
+money was gone, I'd either need to make a specific, conscious choice to
+invest more or make a big change.
 
 All of this is just mental gymnastics. I'm a one person business if 
 you don't count my minor responsibilities to others, so there is
