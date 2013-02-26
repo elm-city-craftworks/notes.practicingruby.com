@@ -1,6 +1,6 @@
 ---
 layout: default
-title: If you love what you are working on, pay yourself first
+title: If you love what you're working on, pay yourself first
 ---
 
 # {{page.title}}
