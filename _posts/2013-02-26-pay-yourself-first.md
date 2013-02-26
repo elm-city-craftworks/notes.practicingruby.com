@@ -49,7 +49,7 @@ simply because I was forced to look at how I was spending my time.
 
 Next came revenue reports, which I set my wife up to take care of for me. How
 much money was coming in the door each month? What were our costs? After giving
-Jordan his small commission, how much money did I actually take home in month?
+Jordan his small commission, how much money did I actually take home in a month?
 These are all questions I was afraid to investigate, because I knew that the
 answer was "Not Much". When $2500+/month of gross revenue turns into a $1100
 paycheck, it seems kind of disheartening, but ignoring that fact doesn't make it
