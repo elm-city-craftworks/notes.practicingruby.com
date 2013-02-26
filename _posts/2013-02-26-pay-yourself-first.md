@@ -104,4 +104,4 @@ I guess this is growing up. And man, does it feel good!
 online courses to help with my short-term cash flow. I just
 completed one on Tech Writing over the weekend that went
 AWESOME, and I think I'll be able to do those every couple
-months throughout the rest of the year*
+months throughout 2013.*
