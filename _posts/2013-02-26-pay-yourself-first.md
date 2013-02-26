@@ -104,4 +104,6 @@ I guess this is growing up. And man, does it feel good!
 online courses to help with my short-term cash flow. I just
 completed one on Tech Writing over the weekend that went
 AWESOME, and I think I'll be able to do those every couple
-months throughout 2013.*
+months throughout 2013. If you want to be notified of those
+courses, just send an email to **gregory@practicingruby.com**
+and I will keep you in the loop.*
