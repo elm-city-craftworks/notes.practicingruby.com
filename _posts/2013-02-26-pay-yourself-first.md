@@ -9,7 +9,7 @@ The difficult thing about a labor of love is that love isn't exactly
 a transferrable currency. You can't eat love, nor can you use it to pay your
 mortgage or your car insurance. Although that's  obvious when it's
 laid out plainly, it is a big part of what makes it hard to transition a side
-project into a real business you can make a living from.
+project into a real business that you can make a living from.
 
 For the first year or so of working on Practicing Ruby, I wasn't especially
 concerned with how much money it was making. It was meant to help keep a trickle
