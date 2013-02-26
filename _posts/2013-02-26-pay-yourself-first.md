@@ -100,6 +100,8 @@ I'm *much* more optimistic now.
 
 I guess this is growing up. And man, does it feel good!
 
+<hr/>
+
 *PS: For those wondering, I'm also going to be teaching a few
 online courses to help with my short-term cash flow. I just
 completed one on Tech Writing over the weekend that went
