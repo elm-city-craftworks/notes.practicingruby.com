@@ -7,7 +7,7 @@ title: Pay yourself first
 
 The difficult thing about a labor of love is that love isn't exactly 
 a transferrable currency. You can't eat love, nor can you use it to pay your
-mortgage or your car insurance. Although that's absolutely obvious when it's
+mortgage or your car insurance. Although that's  obvious when it's
 laid out plainly, it is a big part of what makes it hard to transition a side
 project into a real business you can make a living from.
 
