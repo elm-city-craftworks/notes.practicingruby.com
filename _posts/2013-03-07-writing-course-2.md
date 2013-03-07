@@ -18,7 +18,7 @@ shared a case study from Practicing Ruby that explained
 the "how and why" behind various changes I made to a contributed article
 in order to transform it into an excellent finished product. 
 
-In addition to these two main activities, the students connectd
+In addition to these two main activities, the students connected
 with me at the beginning and end of the course for individual interviews,
 so that they could privately ask me whatever questions they wanted about tech writing.
 For a session that lasted only eight hours, we definitely covered a lot of ground!
