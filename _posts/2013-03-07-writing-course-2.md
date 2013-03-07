@@ -49,7 +49,7 @@ a sample of your writing along with a brief note about why you're
 interested to [gregory@practicingruby.com](mailto:gregory@practicingruby.com)
 by March 1, 2013. I will evaluate applications on a first-come, first-serve
 basis and there are only a maximum of five slots open, so be sure
-to send your application in as early as you can!
+to send your application in as early as you can.
 
 If you're accepted to participate, I'll follow up over email with
 a few questions that will help me design a good course for you, and we'll
