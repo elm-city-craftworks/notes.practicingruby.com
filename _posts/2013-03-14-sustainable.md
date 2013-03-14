@@ -23,7 +23,7 @@ Sustainable software is...
 
 **Flexible:** It is either easy to change, or designed in such a way as to not need to be changed in order to be extended.
 
-**Testable:** Its behaviors can be easily verified, in a reliable and consistent way.
+**Testable:** Its behaviors can be readily verified, in a reliable and consistent way.
 
 **Usable:** It is built for a particular audience, and attempts to meet their needs in a natural and efficient manner.
 
