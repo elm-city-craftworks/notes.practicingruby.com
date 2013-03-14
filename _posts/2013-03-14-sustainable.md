@@ -29,4 +29,6 @@ Sustainable software is...
 
 **Portable:** It expects as little as possible from the environment it is meant to run within. When possible, it is not tied down to particular device or platform.
 
-Whenever we're teaching or learning the craft of software development, we should be thinking about which of these goals we're trying to satisfy. If it is none of them, we've lost sight of the forest for the trees. 
+*Whenever we're teaching or learning the craft of software development, we
+should be thinking about which of these goals we're trying to satisfy. If it is
+none of them, we've lost sight of the forest for the trees.*
