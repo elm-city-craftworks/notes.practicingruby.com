@@ -1,4 +1,10 @@
-## Ten principles of sustainable software
+---
+title: Ten Principles of Sustainable Software
+layout: default
+---
+
+# {{ page.title }}
+
 (Inspired by both Dieter Rams and ISO/IEC 9126):
 
 Sustainable software is...
