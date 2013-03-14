@@ -1,15 +1,15 @@
 ---
-title: Ten Principles of Sustainable Software
+title: Ten Principles for Sustainable Software
 layout: default
 ---
 
 # {{ page.title }}
 
-(Inspired by both Dieter Rams and ISO/IEC 9126):
+*(Inspired by both Dieter Rams and ISO/IEC 9126)*
 
 Sustainable software is...
 
-**Purposeful:** It has a real, well-defined problem it needs to solve
+**Purposeful:** It has a real, well-defined problem it needs to solve.
 
 **Reliable:** It consistently works correctly under normal circumstances, and handles failures gracefully in exceptional circumstances.
 
