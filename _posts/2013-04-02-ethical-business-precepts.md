@@ -9,7 +9,7 @@ layout: default
 2. Serve needs and desires, not cravings
 3. Prefer win-win deals over zero-sum games
 4. Avoid harmful actions, even profitable ones
-5. Be both trusting and trust-worthy
+5. Be both trusting and trustworthy
 
 I wish I could say it is easy to run a successful business and adhere to all
 five of the above precepts at all times, but life is not that
