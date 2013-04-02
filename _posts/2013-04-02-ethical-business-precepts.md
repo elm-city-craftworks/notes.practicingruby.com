@@ -5,7 +5,7 @@ layout: default
 
 # {{ page.title }}
 
-1. Avoid bullshit in all its forms
+1. Steer clear of bullshit in all its forms
 2. Serve needs and desires, not cravings
 3. Prefer win-win deals over zero-sum games
 4. Avoid harmful actions, even profitable ones
