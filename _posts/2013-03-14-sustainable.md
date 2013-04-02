@@ -27,7 +27,7 @@ Sustainable software is...
 
 **Usable:** It is built for a particular audience, and attempts to meet their needs in a natural and efficient manner.
 
-**Portable:** It expects as little as possible from the environment it is meant to run within. When possible, it is not tied down to particular device or platform.
+**Portable:** It expects as little as possible from the environment it is meant to run within. When possible, it is not tied down to a particular device or platform.
 
 *Whenever we're teaching or learning the craft of software development, we
 should be thinking about which of these goals we're trying to satisfy. If it is
