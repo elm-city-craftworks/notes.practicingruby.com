@@ -3,6 +3,8 @@ title: Plans for Practicing Ruby, Volume 7
 layout: default
 ---
 
+# {{ page.title }}
+
 Today I promised to reveal the plans for Practicing Ruby's 
 seventh volume. You can scroll to the bottom of this message
 to see what exactly will be changed in the coming months,
