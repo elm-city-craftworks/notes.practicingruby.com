@@ -70,8 +70,8 @@ some of them were. But did they inspire the same kind of "Wow!"
 moments that my best work is capable of producing? No, I don't
 think so -- at least not as much as I had hoped they would.
 
-For me, that tells me there is only one thing left for us 
-to try: taking Practicing Ruby back to its roots, at a pace 
+All of this tells me there is only one thing left for us 
+to try: we need to take Practicing Ruby back to its roots, at a pace 
 that will allow me to slow-cook things rather than rushing 
 against deadlines.
 
