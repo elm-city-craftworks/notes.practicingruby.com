@@ -100,7 +100,7 @@ its stride.`
 There will be 10 issues in Volume 7, running from 
 June 2013 to March 2014:
 
-```
+<pre>
 2013-06-04: Issue 7.1
 2013-06-18: June news update
 2013-07-02: Issue 7.2
@@ -121,7 +121,7 @@ June 2013 to March 2014:
 2014-02-18: February news update
 2014-03-04: Issue 7.10
 2014-03-18: March news update (Plans for v8 announced)
-```
+</pre>
 
 ## Feedback and questions
 
