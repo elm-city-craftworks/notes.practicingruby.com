@@ -83,7 +83,7 @@ every month, rather than every other Tuesday. I will also be
 reducing the frequency of these news updates, consolidating them 
 into a single in-depth post on the third Tuesday of each month.
 These changes will free up enough time for me to return the 
-traditional article style that we've been fine-turning over the 
+traditional article style that we've been fine-tuning over the 
 years, rather than continuing on with experimental content formats.
 
 The bet I'm making here is that "less frequent, but better" content
