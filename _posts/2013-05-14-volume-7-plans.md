@@ -28,18 +28,20 @@ In fact, I often deal with conditions that are quite the
 opposite, for any number of reasons. Here are just a few, 
 to give you a sense of what goes on behind the scenes:
 
-* a contributed article will fall through or be pushed 
+<pre>
+- A contributed article will fall through or be pushed 
 to a later date, and suddenly I have just a couple days 
 to come up with a new  article from scratch to fill its place. 
 
-* I will invest dozens of hours of research and development
+- I will invest dozens of hours of research and development
 into an idea, only to find out that it's not nearly as 
 interesting of a topic as I thought it would be.
 
-* I will get started on what I am sure will be a *great* 
+- I will get started on what I am sure will be a *great* 
 article, only to have a family issue crop up, or catch a 
 cold, and then have my available working time cut into a 
 fraction of what I expected it would be.
+</pre>
 
 You all are engaged in creative work, so I'm sure many of these 
 problems sound familiar to you, albeit in a different context.
