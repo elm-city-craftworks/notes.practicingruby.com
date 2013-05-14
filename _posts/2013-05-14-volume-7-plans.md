@@ -99,8 +99,8 @@ its stride.`
 
 ## Volume 7 Schedule
 
-There will be 10 issues in Volume 7, running from 
-June 2013 to March 2014:
+There will be 10 issues published in Volume 7, according
+to the schedule below:
 
 <pre>
 2013-06-04: Issue 7.1
