@@ -100,7 +100,7 @@ its stride.`
 ## Volume 7 Schedule
 
 There will be 10 issues published in Volume 7. The schedule
-below shows when they will be released, along with the
+below shows their planned release dates, along with the
 monthly news updates:
 
 <pre>
