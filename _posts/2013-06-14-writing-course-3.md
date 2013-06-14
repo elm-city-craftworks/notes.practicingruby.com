@@ -108,8 +108,8 @@ topic is open for discussion!
 
 And there you have it: a fully personalized and deeply educational
 master class that can teach you lessons that will stick with you
-for a lifetime. If you're serious about technical writing,
-I doubt you'll find something like this anywhere else.
+for a lifetime. I doubt you'll find something like this 
+course anywhere else, and that's why I'm teaching it!
 
 ## How to apply
 
