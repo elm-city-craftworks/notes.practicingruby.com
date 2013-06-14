@@ -113,9 +113,8 @@ I doubt you'll find something like this anywhere else.
 
 ## How to apply
 
-
-**Participating in this course will cost you $450, with a full 
-refund guaranteed if you don't have an awesome experience.**
+*Participating in this course will cost you $450, with a full 
+refund guaranteed if you don't have an awesome experience.*
 
 To apply, please send 
 a sample of your writing along with a brief note about why you're
