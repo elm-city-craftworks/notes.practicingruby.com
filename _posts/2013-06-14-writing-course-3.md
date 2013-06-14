@@ -52,9 +52,8 @@ and I expect it will fill up before the deadline!
 ## What to expect from this workshop
 
 After your application has been accepted and you're all paid up, 
-you'll be given two projects to work on before the day of the
-course: an open-ended writing prompt for a 
-4-6 page article, and a reading exercise where you compare an early
+you'll be given two projects to work on in advance: an open-ended writing 
+prompt for a 4-6 page article, and a reading exercise where you compare an early
 stage draft of a real article to its finished product to explore
 what was changed and why.
 
