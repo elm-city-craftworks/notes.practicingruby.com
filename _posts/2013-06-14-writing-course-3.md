@@ -33,7 +33,8 @@ will not be beaten over the head with a copy of *Strunk & White*,
 nor will we be rocking out to the tune of Schoolhouse Rock's
 [Conjunction Junction](http://www.youtube.com/watch?v=ODGA7ssL-6g).
 Instead, I'll be helping you figure out how to take what you've
-learned about programming and make it useful to others.
+learned about programming and make it useful to others in a clear
+and engaging way.
 
 Rather than selling you a list of vague promises in the form of shallow
 marketing copy, I'll tell you right now exactly how I run my courses,
