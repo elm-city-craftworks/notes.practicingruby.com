@@ -119,8 +119,7 @@ refund guaranteed if you don't have an awesome experience.*
 To apply, please send 
 a sample of your writing along with a brief note about why you're
 interested to [gregory@practicingruby.com](mailto:gregory@practicingruby.com)
-by July 1, 2013. I will evaluate applications on a first-come, first-serve
-basis and there are only a maximum of four slots open -- so be sure
+by July 1, 2013. basis. There are only a maximum of four slots open -- so be sure
 to send your application in as early as you can. Keep in mind
 that your writing sample does not need to be perfect, it just
 needs to show me that you have basic English writing skills
