@@ -18,3 +18,4 @@ on Github](http://github.com/elm-city-craftworks/notes.practicingruby.com).
 If you want to discuss something with me, you can [email
 me](mailto:gregory@practicingruby.com), or tweet something to
 [@practicingruby](http://twitter.com/practicingruby).
+
