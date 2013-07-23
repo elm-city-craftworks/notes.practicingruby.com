@@ -95,7 +95,7 @@ and more consistent learning resource for you. I have lots of ideas of
 where to focus my energy if this change does have as good of an
 effect on my availability as I expect it will, but I'll reveal those 
 later, once we can all agree the core content has really hit 
-its stride.`
+its stride.
 
 ## Volume 7 Schedule
 
